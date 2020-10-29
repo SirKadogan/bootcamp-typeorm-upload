@@ -13,6 +13,8 @@ Frontend for this project is available at : https://github.com/SirKadogan/goFina
 - Node.js
 - Typescript
 - TypeOrm
+- Express
+- Jest
 
 ### Instructions to run
 
